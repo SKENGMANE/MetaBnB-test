@@ -1,0 +1,460 @@
+.frameIcon {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  border-radius: var(--br-xl);
+  width: 260px;
+  height: 265px;
+  overflow: hidden;
+}
+.groupDiv1,
+.starDiv {
+  width: 12px;
+  height: 12px;
+}
+.starDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background: linear-gradient(90deg, #a02279, #a02279);
+}
+.groupDiv1 {
+  position: relative;
+  flex-shrink: 0;
+}
+.frameDiv3 {
+  position: absolute;
+  top: 344px;
+  left: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.desertKingDiv,
+.frameDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frameDiv2 {
+  border-radius: var(--br-xl);
+  background: linear-gradient(124.4deg, #fff, #fff);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 292px;
+  height: 372px;
+  overflow: hidden;
+}
+.desertKingDiv {
+  line-height: 13.2px;
+  display: inline-block;
+}
+.groupDiv7 {
+  position: absolute;
+  top: 0;
+  left: 174px;
+  width: 88px;
+  height: 14px;
+}
+.groupDiv6,
+.groupDiv8,
+.groupDiv9 {
+  position: absolute;
+  top: 297px;
+  left: 16px;
+  width: 262px;
+  height: 14px;
+}
+.groupDiv8,
+.groupDiv9 {
+  top: 0;
+  left: 117px;
+  width: 148px;
+}
+.groupDiv8 {
+  top: 321px;
+  left: 16px;
+  width: 265px;
+}
+.groupDiv {
+  position: relative;
+  width: 292px;
+  height: 372px;
+  flex-shrink: 0;
+}
+.frameDiv,
+.frameDiv1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.frameDiv {
+  position: absolute;
+  top: 318px;
+  left: 100px;
+  flex-direction: column;
+  font-size: var(--font-size-base);
+}
+.groupIcon {
+  position: absolute;
+  height: 12.42%;
+  width: 16.18%;
+  top: 18.01%;
+  right: 75.97%;
+  bottom: 69.57%;
+  left: 7.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebook263721950Icon,
+.instagram216721958Icon,
+.twitter241721979Icon {
+  position: absolute;
+  height: 5.59%;
+  width: 1.25%;
+  top: 60.25%;
+  right: 83.96%;
+  bottom: 34.16%;
+  left: 14.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebook263721950Icon,
+.instagram216721958Icon {
+  right: 87.43%;
+  left: 11.32%;
+}
+.facebook263721950Icon {
+  right: 90.9%;
+  left: 7.85%;
+}
+.metabnbDiv,
+.ricopyrightLineIcon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+}
+.metabnbDiv {
+  width: 81.29%;
+  left: 18.71%;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+}
+.ricopyrightLineIcon {
+  width: 12.95%;
+  right: 87.05%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv160 {
+  position: absolute;
+  height: 5.59%;
+  width: 9.65%;
+  top: 82.92%;
+  right: 82.15%;
+  bottom: 11.49%;
+  left: 8.19%;
+}
+.communityB {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.discordDiv,
+.landlordsDiv,
+.nFTDiv,
+.tokensDiv {
+  position: absolute;
+  height: 15.32%;
+  width: 46.34%;
+  top: 0;
+  left: 0;
+  line-height: 35px;
+  display: flex;
+  align-items: center;
+}
+.discordDiv,
+.landlordsDiv,
+.tokensDiv {
+  width: 67.07%;
+  top: 28.23%;
+}
+.discordDiv,
+.landlordsDiv {
+  width: 85.37%;
+  top: 56.45%;
+}
+.discordDiv {
+  width: 100%;
+  top: 84.68%;
+}
+.groupDiv162 {
+  position: absolute;
+  height: 73.37%;
+  width: 81.19%;
+  top: 26.63%;
+  right: 18.81%;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+}
+.groupDiv161 {
+  position: relative;
+  width: 101px;
+  height: 169px;
+  flex-shrink: 0;
+}
+.beachDiv,
+.castleDiv,
+.farmsDiv {
+  position: absolute;
+  height: 15.97%;
+  width: 90.48%;
+  top: 0;
+  left: 0;
+  line-height: 35px;
+  display: flex;
+  align-items: center;
+}
+.beachDiv,
+.farmsDiv {
+  width: 73.81%;
+  top: 26.89%;
+}
+.beachDiv {
+  width: 57.14%;
+  top: 53.78%;
+}
+.groupDiv164,
+.learnMoreDiv {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.learnMoreDiv {
+  height: 15.97%;
+  top: 84.03%;
+  line-height: 35px;
+  display: flex;
+  align-items: center;
+}
+.groupDiv164 {
+  height: 72.56%;
+  top: 27.44%;
+  right: 0;
+  bottom: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+}
+.groupDiv163 {
+  position: relative;
+  width: 84px;
+  height: 164px;
+  flex-shrink: 0;
+}
+.careerDiv,
+.creatorsDiv,
+.roadMapDiv {
+  position: absolute;
+  height: 15.97%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 35px;
+  display: flex;
+  align-items: center;
+}
+.careerDiv,
+.creatorsDiv {
+  width: 81.58%;
+  top: 26.89%;
+}
+.careerDiv {
+  width: 63.16%;
+  top: 53.78%;
+}
+.groupDiv166 {
+  position: absolute;
+  height: 72.56%;
+  width: 96.2%;
+  top: 27.44%;
+  right: 3.8%;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+}
+.groupDiv165 {
+  position: relative;
+  width: 79px;
+  height: 164px;
+  flex-shrink: 0;
+}
+.frameDiv38 {
+  position: absolute;
+  top: 63px;
+  left: 533px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xl);
+  font-size: var(--semibold-size);
+  color: var(--white);
+}
+.frameDiv37 {
+  position: absolute;
+  top: 1970px;
+  left: 0;
+  background-color: var(--color-gray-900);
+  width: 1440px;
+  height: 322px;
+  overflow: hidden;
+  color: var(--logo);
+}
+.resturantDiv {
+  position: relative;
+  display: inline-block;
+}
+.frameDiv39 {
+  position: absolute;
+  height: 1%;
+  width: 63.96%;
+  top: 9.51%;
+  right: 29.1%;
+  bottom: 89.49%;
+  left: 6.94%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+  font-size: var(--font-size-3xl);
+}
+.locationDiv {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 67.5px);
+  line-height: 19.2px;
+  display: inline-block;
+}
+.vuesaxlinearsetting5Icon {
+  height: 50%;
+  width: 14.91%;
+  top: 25%;
+  right: 9.94%;
+  bottom: 25%;
+  left: 75.16%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frameDiv40,
+.groupIcon1,
+.vuesaxlinearsetting5Icon {
+  position: absolute;
+  overflow: hidden;
+}
+.frameDiv40 {
+  height: 2.09%;
+  width: 11.18%;
+  top: 8.99%;
+  right: 11.32%;
+  bottom: 88.92%;
+  left: 77.5%;
+  border-radius: var(--br-sm);
+  background: linear-gradient(124.4deg, #fff, #fff);
+  border: 1px solid #b4b4b4;
+  box-sizing: border-box;
+  text-align: center;
+  color: var(--color-gray-800);
+}
+.groupIcon1 {
+  height: 76.39%;
+  width: 18.79%;
+  top: 7.64%;
+  right: 81.21%;
+  bottom: 15.97%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+  cursor: pointer;
+}
+.homeDiv {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+.frameDiv41 {
+  position: absolute;
+  height: 47.92%;
+  width: 50.48%;
+  top: 31.25%;
+  right: 17.58%;
+  bottom: 20.83%;
+  left: 31.94%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.connectWalletDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.frameDiv42,
+.groupDiv168 {
+  position: absolute;
+  top: 15px;
+  left: 27px;
+  width: 117px;
+  height: 20px;
+}
+.frameDiv42 {
+  height: 100%;
+  width: 13.71%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 86.29%;
+  border-radius: var(--br-md);
+  background: linear-gradient(90deg, #a02279, #a02279);
+  overflow: hidden;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+}
+.groupDiv167 {
+  position: absolute;
+  top: 43px;
+  left: 100px;
+  width: 1240px;
+  height: 48px;
+  font-size: var(--font-size-3xl);
+}
+.pLACETOSTAY {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 2292px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--text-black);
+  font-family: var(--font-red-rose);
+}

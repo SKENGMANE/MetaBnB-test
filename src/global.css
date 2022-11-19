@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Rose:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=AirbnbCereal_W_Bd:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-red-rose: "Red Rose";
+  --font-poppins: Poppins;
+  --font-airbnbcereal_w_bd: AirbnbCereal_W_Bd;
+  --semibold: Sora;
+
+  /* font sizes */
+  --font-size-base: 12px;
+  --font-size-lg: 14px;
+  --font-size-xl: 16px;
+  --semibold-size: 18px;
+  --font-size-3xl: 20px;
+  --font-size-4xl: 24px;
+  --font-size-5xl: 32px;
+  --font-size-6xl: 40px;
+  --font-size-7xl: 48px;
+  --font-size-8xl: 56px;
+
+  /* Colors */
+  --white: #fff;
+  --logo: #f7f7f7;
+  --color-gray-200: #f1f3f9;
+  --color-gray-300: #d7d7d7;
+  --dtc-mid-gray: #cfd8dc;
+  --color-gray-500: #b8b8b8;
+  --color-gray-600: #a3a3a3;
+  --text-black: #434343;
+  --color-gray-800: #333;
+  --color-gray-900: #1d1d1e;
+  --color-gray-1000: rgba(247, 247, 247, 0.1);
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-3xs: 8px;
+  --gap-2xs: 12px;
+  --gap-xs: 16px;
+  --gap-sm: 24px;
+  --gap-md: 48px;
+  --gap-lg: 99px;
+  --gap-xl: 217px;
+  --gap-2xl: 264px;
+
+  /* Paddings */
+  --padding-xs: 10px;
+  --padding-sm: 12px;
+  --padding-md: 20px;
+  --padding-lg: 32px;
+  --padding-xl: 100px;
+
+  /* border radiuses */
+  --br-2xs: 1px;
+  --br-xs: 4px;
+  --br-sm: 8px;
+  --br-md: 10px;
+  --br-lg: 12px;
+  --br-xl: 15px;
+}
